@@ -1,9 +1,10 @@
 # MukeshKumarChaurasia
-MS SQL AND AZURE CLOUD DATABASE ADMINISTRATOR 
-# Hi, I'm Mukesh Kumar Chaurasia 👋
-### SQL & Azure Database Administrator
+**MS SQL AND AZURE CLOUD DATABASE ADMINISTRATOR**
 
-I am a results-driven Database Administrator with over 5 years of experience managing critical data systems in hybrid and cloud environments. I specialize in high availability, performance tuning, and automation to ensure 99.95% system uptime.
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mukesh-chaurasia-a44917b6/) 
+**My Custom GPT:** MetaDBA (https://rb.gy/scjswt)
+
+👋 I am a passionate and results-driven MS SQL Database Administrator with 5+ years of experience in managing enterprise-grade database environments across on-premises, hybrid, and cloud platforms. I specialize in SQL Server Administration, High Availability (AOAG), Performance Tuning, Backup & Recovery, Automation, Migration, and Database Security. With a strong focus on reliability and optimization, I have successfully maintained 99.95% system uptime by implementing proactive monitoring, troubleshooting, and performance enhancement strategies.
 
 ---
 
@@ -35,5 +36,5 @@ I am a results-driven Database Administrator with over 5 years of experience man
 * SQL Server Performance Tuning (Udemy)
 * SQL Migration & Upgrade (Udemy)
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mukesh-chaurasia-a44917b6/) | [My Custom GPT](https://rb.gy/scjswt)
+
 
