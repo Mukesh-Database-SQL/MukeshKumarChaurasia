@@ -1,0 +1,63 @@
+SQL DBA Services Section for Portfolio
+
+🗄️ Database Administration
+SQL Server Installation & Configuration
+SQL Server Instance Setup and Maintenance
+Database Creation and Configuration
+SQL Server Version Upgrade & Patching
+
+
+🔄 Backup & Recovery Management
+Full, Differential & Transaction Log Backups
+Disaster Recovery Planning
+Database Restore with Minimum Downtime
+Recovery Model Management
+
+
+⚡ High Availability & Disaster Recovery (HADR)
+Always On Availability Groups (AOAG) Configuration
+Database Mirroring & Log Shipping
+Failover Cluster Support
+High Availability Monitoring
+
+
+🚀 Performance Tuning & Optimization
+Query Performance Optimization
+SQL Server Health Check
+Index Optimization & Maintenance
+Blocking & Deadlock Troubleshooting
+
+
+🔐 Database Security Management
+User Access Management
+SQL Server Authentication & Authorization
+Database Security Hardening
+Permission & Role Management
+
+
+☁️ Cloud & Migration Services
+On-Premise to Cloud Migration
+SQL Server Migration to Azure VM
+Database Upgrade & Migration Planning
+Cross-Server Database Migration
+
+
+📊 Monitoring & Alert Management
+SQL Monitoring using ROD, BMC Helix & SCOM
+SQL Alerts Monitoring & Troubleshooting
+24/7 Database Health Monitoring
+Proactive Incident Resolution
+
+
+📝 Documentation & SOP
+Standard Operating Procedure (SOP) Creation
+Database Documentation & Reporting
+Knowledge Base Preparation
+Environment Audit Documentation
+
+
+🛠️ Automation & Maintenance
+SQL Job Scheduling & Automation
+Maintenance Plans Configuration
+Auto Backup Monitoring
+SQL Script Automation
