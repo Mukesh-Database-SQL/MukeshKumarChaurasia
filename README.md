@@ -1,40 +1,161 @@
-# MukeshKumarChaurasia
-**MS SQL AND AZURE CLOUD DATABASE ADMINISTRATOR**
+# Hi, I'm Mukesh Kumar Chaurasia 👋
 
-📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mukesh-chaurasia-a44917b6/) 
-**My Custom GPT:** MetaDBA (https://rb.gy/scjswt)
+## SQL Server Database Administrator | Azure SQL | Performance Tuning | High Availability
 
-👋 I am a passionate and results-driven MS SQL Database Administrator with 5+ years of experience in managing enterprise-grade database environments across on-premises, hybrid, and cloud platforms. I specialize in SQL Server Administration, High Availability (AOAG), Performance Tuning, Backup & Recovery, Automation, Migration, and Database Security. With a strong focus on reliability and optimization, I have successfully maintained 99.95% system uptime by implementing proactive monitoring, troubleshooting, and performance enhancement strategies.
+Experienced SQL Server DBA with 4+ years of expertise managing large-scale enterprise database environments (50TB+). Specialized in SQL Server Administration, Performance Tuning, Always On Availability Groups (AOAG), Azure SQL, Disaster Recovery, Automation, and Production Support.
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🚀 About Me
 
-* **Databases:** Microsoft SQL Server (2016–2022), Azure SQL, Postgres
-* **Cloud & Infrastructure:** Azure Monitor, Azure Backup, SHIR, PowerShell, RBAC, IAM
-* **High Availability & Security:** Always On Availability Groups (AOAG), TDE Encryption, Backup & Recovery, SSL Certificates
-* **Monitoring & Operations:** Jira, BMC Helix, Remedy (ROD), BMC Outpost
-* **Data Visualization:** Power BI, SAP IS
+I am a dedicated Database Administrator with hands-on experience in maintaining mission-critical SQL Server environments with 99.95% uptime. My expertise includes database performance optimization, high availability solutions, cloud migrations, automation, and troubleshooting complex production issues.
 
----
+### Key Highlights
 
-### 🚀 Core Expertise & Achievements
-
-* **High-Availability Infrastructure:** Managed large-scale databases exceeding 50TB while consistently maintaining a 99.95% uptime baseline using Always On Availability Groups.
-* **Database Monitoring:** SCOM, Azure Monitoring, Data Maintenance, SSMS, 
-* **Backup and Restore:** Full, Differencial, Log backup
-* **On Premise Database to Azure Migration:** Migrated On Premise Database to Azure SQL VM. 
-* **Performance Tuning:** Boosted database performance by 30% through advanced indexing, query tuning, and deep DMV insights.
-* **Automation & Security:** Streamlined installations, patching, and routine maintenance using PowerShell scripts. Implemented strict TDE encryption and role-based access control (RBAC).
-* **Cross-Disciplinary Edge:** Hold a PGDBM in IT & System Management and a B.Tech in ECE. I combine deep technical database engineering with past experience in data-driven digital strategy and ROI optimization.
+* Managing 50TB+ SQL Server production environments
+* Maintaining 99.95% database availability (SQL Audit, Email Configuration, Alerts)
+* Azure SQL Migration & Administration
+* SQL Server Performance Tuning & Query Optimization
+* Always On Availability Groups (AOAG)
+* Backup, Recovery & Disaster Recovery Planning
+* Automation using PowerShell 
+* Incident Management & Root Cause Analysis (RCA)
+* 24x7 Production Support
+* SQL Server Installation, Configuration
 
 ---
 
-### 📜 Certifications
-* Microsoft Certified: Azure Administrator Associate
-* Microsoft Certified: Azure Fundamentals
-* SQL Server Performance Tuning (Udemy)
-* SQL Migration & Upgrade (Udemy)
+## 🛠 Technical Skills
+
+### Database Technologies
+
+* Microsoft SQL Server
+* Azure SQL Database
+* Azure SQL Managed Instance
+
+### High Availability & DR
+
+* Always On Availability Groups (AOAG)
+* Database Mirroring
+* Backup & Recovery
+* Disaster Recovery Planning
+* Failover Testing
+
+### Performance Optimization
+
+* Query Tuning
+* Execution Plan Analysis
+* Index Optimization
+* Statistics Management
+* Deadlock Analysis
+* Extended Events
+* Dynamic Management Views (DMVs)
+
+### Cloud Technologies
+
+* Microsoft Azure
+* Azure Migration
+* Azure Backup
+* Azure Log Analytics
+
+### Automation & Monitoring
+
+* PowerShell
+* SQL Server Agent
+* SCOM Monitoring
+* Performance Dashboards
+* Alert Management
+
+### IT Service Management
+
+* BMC Helix
+* Remedy On Demand
+* Change Management
+* Incident Management
+* Problem Management
+
+---
+
+## 💼 Professional Experience
+
+### SQL Server Database Administrator
+
+**HCL Technologies**
+*December 2021 – Present*
+
+#### Key Responsibilities
+
+* SQL Server installation, patching, and version upgrades.
+* Administration of enterprise SQL Server environments.
+* Performance tuning and query optimization.
+* AOAG implementation and maintenance.
+* Database backup and recovery and restore management.
+* On premise database migration to Azure Iaas SQL Server projects.
+* Capacity planning and database health checks.
+* Database Security implementation using TDE, SSL/TLS, and RBAC.
+* Production support and critical incident resolution.
+
+#### Major Achievements
+
+* Maintained **99.95% uptime** across a 50TB+ SQL Server estate.
+* Reduced deployment effort by **35%** through PowerShell automation.
+* Improved query performance by **30%** through proactive tuning.
+* Successfully migrated **12TB+ databases to Azure** with zero data loss.
+* Reduced MTTR by **20%** through SOPs and DR runbooks.
+
+---
+
+## 🎓 Certifications
+
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* SQL Server Performance Tuning & Optimization
+* SQL Server Migration & Upgrade
+
+---
+
+## 🎓 Education
+
+### PGDBM – IT & Systems Management
+
+NMIMS Mumbai
+2021 – 2023
+
+### B.Tech – Electronics & Communication Engineering
+
+Greater Noida
+2015 – 2019
+
+---
+
+## 📈 Areas of Interest
+
+* SQL Server Performance Engineering
+* Azure Database Services
+* Database Automation
+* Cloud Migration
+* High Availability Solutions
+* Disaster Recovery Planning
+* Database Monitoring & Observability
+* SAP IS (Information Steward) - SSIS 
+
+---
+
+🎯 Mission
+
+To help businesses maximize database performance, availability, and reliability while reducing operational risks through proven SQL Server and Azure database solutions.
+
+---
 
 
+## 🤝 Connect With Me
 
+📧 Email: [mukesh.chaurasia412@gmail.com](mailto:mukesh.chaurasia412@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/mukesh-chaurasia-a44917b6
+
+📱 Phone: +91-9506829980
+
+---
+
+### "Optimizing databases, automating operations, and ensuring business continuity through reliable database solutions."
