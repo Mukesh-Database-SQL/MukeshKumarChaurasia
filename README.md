@@ -13,6 +13,7 @@ I am a dedicated Database Administrator with hands-on experience in maintaining 
 ### Key Highlights
 
 * Managing 50TB+ SQL Server production environments
+* SQL Server Installation, Configuration
 * Maintaining 99.95% database availability (SQL Audit, Email Configuration, Alerts)
 * Azure SQL Migration & Administration
 * SQL Server Performance Tuning & Query Optimization
@@ -21,7 +22,7 @@ I am a dedicated Database Administrator with hands-on experience in maintaining 
 * Automation using PowerShell 
 * Incident Management & Root Cause Analysis (RCA)
 * 24x7 Production Support
-* SQL Server Installation, Configuration
+* Power BI tool used to create visual dasboard 
 
 ---
 
@@ -31,14 +32,14 @@ I am a dedicated Database Administrator with hands-on experience in maintaining 
 
 * Microsoft SQL Server
 * Azure SQL Database
-* Azure SQL Managed Instance
+* PostgreSQL
+* MySQL
 
 ### High Availability & DR
 
 * Always On Availability Groups (AOAG)
-* Database Mirroring
+* Database Replication
 * Backup & Recovery
-* Disaster Recovery Planning
 * Failover Testing
 
 ### Performance Optimization
@@ -47,16 +48,16 @@ I am a dedicated Database Administrator with hands-on experience in maintaining 
 * Execution Plan Analysis
 * Index Optimization
 * Statistics Management
-* Deadlock Analysis
+* Deadlock and Block Analysis
 * Extended Events
 * Dynamic Management Views (DMVs)
 
 ### Cloud Technologies
 
-* Microsoft Azure
 * Azure Migration
 * Azure Backup
 * Azure Log Analytics
+* Azure Monitor
 
 ### Automation & Monitoring
 
@@ -65,6 +66,8 @@ I am a dedicated Database Administrator with hands-on experience in maintaining 
 * SCOM Monitoring
 * Performance Dashboards
 * Alert Management
+* Email Communication Setup
+* PowerBI Dashboards
 
 ### IT Service Management
 
@@ -73,6 +76,8 @@ I am a dedicated Database Administrator with hands-on experience in maintaining 
 * Change Management
 * Incident Management
 * Problem Management
+* Root Cause Analysis (RCA)
+* Collaborated with cross team members
 
 ---
 
