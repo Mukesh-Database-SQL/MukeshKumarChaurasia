@@ -1,5 +1,3 @@
-# Hi, I'm Mukesh Kumar Chaurasia 👋
-
 ## SQL Server Database Administrator | Azure SQL | Performance Tuning | High Availability
 
 Experienced SQL Server DBA with 4+ years of expertise managing large-scale enterprise database environments (50TB+). Specialized in SQL Server Administration, Performance Tuning, Always On Availability Groups (AOAG), Azure SQL, Disaster Recovery, Automation, and Production Support.
